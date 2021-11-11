@@ -107,6 +107,9 @@ public class ArticleService {
 - update = 조회 + 업데이트 두개의 업무가 존재
 - 실무에서 트랜잭션을 정의하고 관리하는 것은 굉장히 중요
 
+--- 
+# 정리중!!
+
 ### CRUD API 만들기
 
 - ArticleController 객체에 PUT, DELETE API 추가
